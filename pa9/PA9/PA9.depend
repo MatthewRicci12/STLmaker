@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1659493047 source:c:\users\matth\desktop\352\pa9\pa9\main.c
+	"3d.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1659493789 source:c:\users\matth\desktop\352\pa9\pa9\3d.c
+	"3d.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	<math.h>
+
+1658934780 c:\users\matth\desktop\352\pa9\pa9\3d.h
+
